@@ -277,6 +277,6 @@ This showcase demonstrates:
 
 **Built with operational sustainability in mind, not theoretical perfection.**
 
-*For architecture walkthroughs and deeper technical details, please contact: [jbjhun@gmail.com](mailto:jbjhun@gmail.com)*
+*For architecture walkthroughs and deeper technical details, please [contact via LinkedIn](https://linkedin.com/in/junebay)*
 
 </div>
