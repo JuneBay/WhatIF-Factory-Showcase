@@ -2,8 +2,8 @@
 
 **Senior Solution Architect | Production-Grade AI Content Automation System**
 
-[![Live Demo](https://img.shields.io/badge/YouTube-Live_Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@WhatIF_Factory_Official)
-[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-black?style=for-the-badge&logo=github)](https://github.com/JuneBay/WhatIF_ContentFactory)
+[![Live Demo](https://img.shields.io/badge/YouTube-@WhatIF_Factory_Official-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@WhatIF_Factory_Official)
+[![GitHub](https://img.shields.io/badge/GitHub-Showcase-black?style=for-the-badge&logo=github)](https://github.com/JuneBay/WhatIF-Factory-Showcase)
 
 ---
 
@@ -159,7 +159,7 @@ The system implements robust error handling with automatic retry mechanisms and 
 
 **WhatIF Factory** is actively used to operate real YouTube channels in daily production:
 
-- **Channel**: [@WhatIF_Factory_Official](https://www.youtube.com/@WhatIF_Factory_Official)
+- **YouTube Channel**: [@WhatIF_Factory_Official](https://www.youtube.com/@WhatIF_Factory_Official)
 - **Content Type**: YouTube Shorts (60-second format)
 - **Languages**: 20 countries supported
 - **Status**: Production-ready, actively maintained
@@ -252,8 +252,8 @@ WhatIF_Factory/
 
 ## 🔗 Related Resources
 
-- **Source Code**: [WhatIF_ContentFactory Repository](https://github.com/JuneBay/WhatIF_ContentFactory)
-- **Live Demo**: [YouTube Channel](https://www.youtube.com/@WhatIF_Factory_Official)
+- **Showcase Repository**: [WhatIF-Factory-Showcase](https://github.com/JuneBay/WhatIF-Factory-Showcase)
+- **Live Demo**: [@WhatIF_Factory_Official YouTube Channel](https://www.youtube.com/@WhatIF_Factory_Official)
 - **Technical Details**: See [`Core_Logic_Snippet.py`](./Core_Logic_Snippet.py) for implementation highlights
 
 ---
