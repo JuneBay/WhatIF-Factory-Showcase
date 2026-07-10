@@ -13,7 +13,7 @@ A production-grade **AI Content Automation Pipeline** designed to transform a si
 
 **Core Value:**
 - **Human-in-the-Loop (HITL):** Strategic oversight at high-cost steps, avoiding blind automation waste
-- **Cost-Aware Architecture:** Checks and balances to minimize API costs ($1,350 → $16)
+- **Cost-Aware Architecture:** Checks and balances to minimize API costs
 - **Domain Agnostic:** Single pipeline supporting entertainment, product demos, manual, and marketing
 - **Global Reach:** Automated localization into 20+ languages
 
@@ -22,20 +22,20 @@ A production-grade **AI Content Automation Pipeline** designed to transform a si
 ## 🎯 Key Achievements & Metrics
 
 ### 1. Cost Reduction
-- **98% Cost Savings:** $1,350 → <$16 per video (Optimized Mode)
+- **Major Cost Savings:** per-video cost far below a manual workflow (Optimized Mode)
 - **Current Optimized:** $0.615/video (Veo + Flux)
 - **Lowest Cost Mode:** $0.01/video (Pollinations + Veo)
-- **vs Manual:** >99% savings compared to traditional production
+- **vs Manual:** substantial savings compared to traditional production
 
 ### 2. Efficiency & Organization
 - **Before:** 5+ person team (Writer, Actor, Editor, etc.)
 - **After:** 1-person supervised autonomous system
-- **Labor Saving:** 98.9% reduction (90 man-hours → 1 man-hour)
+- **Labor Saving:** one supervised operator replaces a multi-person manual effort
 
 ### 3. Speed
 - **Before:** 12-24 hours/video
 - **After:** 30 mins/video (Shorts format)
-- **Improvement:** >92% faster production cycle
+- **Improvement:** substantially faster production cycle
 
 ### 4. Platform Versatility
 - **Universal Pipeline:** Supports diverse formats without re-coding
@@ -47,7 +47,7 @@ A production-grade **AI Content Automation Pipeline** designed to transform a si
 
 ### 5. Global Scalability
 - **Multilingual:** Single source → 20 languages automated
-- **Savings:** 1,800 man-hours → 1 man-hour (99.94% reduction)
+- **Savings:** automated multilingual output removes extensive manual translation effort
 
 ---
 
@@ -131,7 +131,7 @@ A production-grade **AI Content Automation Pipeline** designed to transform a si
 ### 3. YouTube Localization Conflicts
 **Problem:** API errors due to `defaultLanguage` conflicts.
 **Solution:** Implemented BCP-47 normalization and Read-Modify-Write pattern.
-**Result:** 100% success rate for 20-country localization uploads.
+**Result:** reliable multi-language localization uploads (up to ~20 languages).
 
 ### 4. Resolution Unification through FFmpeg
 **Problem:** Mixed resolutions from different AI models (Runway vs Veo).
@@ -147,13 +147,7 @@ A production-grade **AI Content Automation Pipeline** designed to transform a si
 
 ## 📊 Performance Comparison
 
-| Metric | Manual (5-Person Team) | WhatIF Factory (1-Person) | Improvement |
-|--------|------------------------|---------------------------|-------------|
-| **Cost** | ~$1,350 / video | **<$16** / video | **98% Savings** |
-| **Team** | 5+ Specialists | **1 Architect** | **80% Leaner** |
-| **Time** | 18 hours | **30 mins** | **96% Faster** |
-| **Scale** | 1 video / days | **24 videos / day** | **24x Output** |
-| **Global** | 1,800 hrs (20 langs) | **Automated** | **99.9% Savings** |
+Against a 5-person manual team, WhatIF Factory lets a single operator produce videos at a fraction of the cost and time, scale daily output well beyond a manual pipeline, and automate multi-language localization that would otherwise take extensive manual hours.
 
 ---
 
